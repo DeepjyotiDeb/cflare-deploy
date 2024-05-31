@@ -8,7 +8,7 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				varela: ['Varela']
+				varela: ['Varela Round']
 			},
 			colors: {
 				primary: {

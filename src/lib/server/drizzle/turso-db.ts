@@ -2,7 +2,7 @@ import { createClient } from '@libsql/client';
 import { drizzle } from 'drizzle-orm/libsql';
 import { sessionTable, userTable } from './turso-schema';
 import { DrizzleSQLiteAdapter } from '@lucia-auth/adapter-drizzle';
-import { TURSO_DB, TURSO_TOKEN } from '$env/static/private';
+import { TURSO_TOKEN, TURSO_DB } from '$env/static/private';
 import { dev } from '$app/environment';
 
 const turso = createClient({

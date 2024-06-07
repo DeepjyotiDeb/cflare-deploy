@@ -28,8 +28,6 @@ export async function GET(event: RequestEvent): Promise<Response> {
 		});
 		const googleUser = (await response.json()) as GoogleUser;
 
-		// const result = await db.select().from(userTable);
-		// console.log('rsult', result, googleUser.email);
 		const [existingUser] = await db
 			.select()
 			.from(userTable)

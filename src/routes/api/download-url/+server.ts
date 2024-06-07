@@ -9,7 +9,6 @@ import { generateIdFromEntropySize } from 'lucia';
 
 const client = new S3Client({
 	region: 'us-east-2',
-	// region: 'ap-south-1',
 	credentials: { accessKeyId: ACCESS_ID, secretAccessKey: SECRET_KEY }
 });
 
@@ -39,7 +38,6 @@ export const POST: RequestHandler = async ({ request, locals }) => {
 	const userid = locals.user.id;
 	const command = new GetObjectCommand({
 		Bucket: 'nikhil-pipeline-storage',
-		// Bucket: 'stream-bin',
 		Key: `${userEmail}/${filename}`,
 		ResponseContentDisposition: `attachment; filename="${filename}"`
 	});
@@ -64,24 +62,21 @@ export const POST: RequestHandler = async ({ request, locals }) => {
 				method: 'POST',
 				body: JSON.stringify({
 					additional_text: inputText,
-					pdf_file_location: `s3//nikhil-pipeline-storage/${userEmail}/${filename}`
+					pdf_file_location: `s3://nikhil-pipeline-storage/${userEmail}/${filename}`
 				}),
 				headers: {
 					'Content-Type': 'application/json'
 				}
 			});
+			// console.log('response', await res.json());
 			const fullResponse = (await res.json()) as IResponse;
-			// console.log('response from api');
 			if ('body' in fullResponse) {
 				const body = JSON.parse(fullResponse.body);
-				// console.log('response from api', body);
 				return json(body);
-			}
+			} else return json({ error: 'error reading pdf' });
 		} catch (error) {
 			return json(error);
 		}
 	}
 	error(404, { message: 'Not found' });
-	// console.log('down load url', DownloadUrl);
-	// return json(downloadUrl);
 };

@@ -7,6 +7,10 @@ export default {
 	darkMode: 'class',
 	theme: {
 		extend: {
+			fontFamily: {
+				varela: ['Varela Round'],
+				mplus: ['M PLUS Rounded 1c']
+			},
 			colors: {
 				primary: {
 					50: '#fefce8',
@@ -70,7 +74,7 @@ export default {
 					'secondary-content': '#140d05',
 					accent: '#fc3400',
 					'accent-content': '#160100',
-					neutral: '#050609',
+					neutral: '#dcdcdc',
 					'neutral-content': '#c5c5c7',
 					'base-100': '#f5f5f4',
 					'base-200': '#d5d5d4',

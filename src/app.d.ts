@@ -18,14 +18,6 @@ declare global {
 			caches: CacheStorage & { default: Cache };
 		}
 		interface Session {}
-
-		// declare namespace svelteHTML {
-		// 	interface HTMLAttributes {
-		// 		// If you want to use on:beforeinstallprompt
-		// 		'on:e-select'?: () => void;
-		// 		// If you want to use myCustomAttribute={..} (note: all lowercase)
-		// 	}
-		// }
 	}
 }
 

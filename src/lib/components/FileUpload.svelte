@@ -11,10 +11,6 @@
 
 	$: minHeight = `${1 + minRows * 1.2}em`;
 	$: maxHeight = maxRows ? `${1 + maxRows * 1.2}em` : `auto`;
-
-	// const handleDragOver = (event: DragEvent) => {
-	// 	event.preventDefault();
-	// };
 </script>
 
 <div class="flex flex-col">

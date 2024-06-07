@@ -2,117 +2,50 @@
 @tailwind components;
 @tailwind utilities;
 
-/* .embla {
-	max-width: 48rem;
-	margin: auto;
-	--slide-height: 19rem;
-	--slide-spacing: 1rem;
-	--slide-size: 55%;
+sub,
+sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
 }
-.embla__viewport {
-	overflow: hidden;
+sup {
+	top: -0.3em;
+	vertical-align: super;
 }
-.embla__container {
-	backface-visibility: hidden;
-	display: flex;
-	touch-action: pan-y pinch-zoom;
-	margin-left: calc(var(--slide-spacing) * -2);
+sub {
+	bottom: -0.25em;
+	vertical-align: sub;
 }
-.embla__slide {
-	flex: 0 0 var(--slide-size);
-	min-width: 0;
-	padding-left: var(--slide-spacing);
+
+pre {
+	scrollbar-color: #6b7280 #1f2937;
 }
-.embla__slide__number {
-	box-shadow: inset 0 0 0 0.2rem var(--detail-medium-contrast);
-	border-radius: 1.8rem;
-	font-size: 4rem;
-	font-weight: 600;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	height: var(--slide-height);
+
+/* Works on Chrome, Edge, and Safari */
+pre::-webkit-scrollbar {
+	width: 12px;
 }
-.embla__controls {
-	display: grid;
-	grid-template-columns: auto 1fr;
-	justify-content: space-between;
-	gap: 1.2rem;
-	margin-top: 1.8rem;
+pre::-webkit-scrollbar-track {
+	background: #1f2937;
 }
-.embla__buttons {
-	display: grid;
-	grid-template-columns: repeat(2, 1fr);
-	gap: 0.6rem;
-	align-items: center;
+
+pre::-webkit-scrollbar-thumb {
+	background-color: #6b7280;
+	border-radius: 20px;
+	border: 3px solid #1f2937;
 }
-.embla__button {
-	-webkit-tap-highlight-color: rgba(var(--text-high-contrast-rgb-value), 0.5);
-	-webkit-appearance: none;
-	appearance: none;
-	background-color: transparent;
-	touch-action: manipulation;
-	display: inline-flex;
-	text-decoration: none;
-	cursor: pointer;
-	border: 0;
-	padding: 0;
-	margin: 0;
-	box-shadow: inset 0 0 0 0.2rem var(--detail-medium-contrast);
-	width: 3.6rem;
-	height: 3.6rem;
-	z-index: 1;
-	border-radius: 50%;
-	color: var(--text-body);
-	display: flex;
-	align-items: center;
-	justify-content: center;
+
+@layer components {
+	@media (max-width: 767px) {
+		.dropdown.dropdown-center.dropdown-right .dropdown-content,
+		.dropdown-center.dropdown-left .dropdown-content {
+			@apply top-1/2 transform -translate-y-1/2;
+		}
+
+		.dropdown-center.dropdown-bottom .dropdown-content,
+		.dropdown-center.dropdown-top .dropdown-content {
+			@apply left-1/2 transform -translate-x-1/2;
+		}
+	}
 }
-.embla__button:disabled {
-	color: var(--detail-high-contrast);
-}
-.embla__button__svg {
-	width: 35%;
-	height: 35%;
-}
-.embla__dots {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: flex-end;
-	align-items: center;
-	margin-right: calc((2.6rem - 1.4rem) / 2 * -1);
-}
-.embla__dot {
-	-webkit-tap-highlight-color: rgba(var(--text-high-contrast-rgb-value), 0.5);
-	-webkit-appearance: none;
-	appearance: none;
-	background-color: transparent;
-	touch-action: manipulation;
-	display: inline-flex;
-	text-decoration: none;
-	cursor: pointer;
-	border: 0;
-	padding: 0;
-	margin: 0;
-	width: 2.6rem;
-	height: 2.6rem;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	border-radius: 50%;
-}
-.embla__dot:after {
-	box-shadow: inset 0 0 0 0.2rem var(--detail-medium-contrast);
-	width: 1.4rem;
-	height: 1.4rem;
-	border-radius: 50%;
-	display: flex;
-	align-items: center;
-	content: '';
-}
-.embla__dot--selected:after {
-	box-shadow: inset 0 0 0 0.2rem var(--text-body);
-}
-.embla__slide__number {
-	backface-visibility: hidden;
-} */

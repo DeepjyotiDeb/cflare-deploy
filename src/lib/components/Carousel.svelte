@@ -8,7 +8,7 @@
 	import RestoreIcon from '$lib/assets/icons/RestoreIcon.svg?raw';
 	import type { DummyData } from '$lib/dummyData';
 	import { writable } from 'svelte/store';
-	import { fade, fly } from 'svelte/transition';
+	import { fade } from 'svelte/transition';
 
 	export let arr: DummyData[];
 	export let triggerModal: () => void;
@@ -16,56 +16,79 @@
 
 	const carousel = writable<EmblaCarouselType>();
 
-	// let emblaApi: EmblaCarouselType;
-	let scrollSnapList: number[];
 	let selected: number = 0;
-	// $: selected = emblaApi?.selectedScrollSnap() ?? 0;
-
-	// $: {
-	// 	console.log('embla api', emblaApi);
-	// }
-
-	// function onInit(event: CustomEvent<EmblaCarouselType>) {
-	// emblaApi = event.detail;
-	// scrollSnapList = emblaApi.scrollSnapList();
-	// console.log('list', scrollSnapList); // Access API
-	// }
-	// $: selected = emblaApi?.selectedScrollSnap() ?? 0;
 
 	function nextCard() {
-		// emblaApi.scrollNext();
-		// selected = emblaApi?.selectedScrollSnap();
-
 		$carousel?.canScrollNext() && $carousel?.scrollNext();
-		// console.log('log', emblaApi.slideNodes());
-		// console.log('rest', selected, arr.length - 1);
 	}
 	function previousCard() {
-		// emblaApi.scrollPrev();
-		// selected = emblaApi?.selectedScrollSnap();
 		$carousel?.canScrollPrev() && $carousel?.scrollPrev();
 	}
-	const select = (index: number) => () => {
-		// emblaApi?.scrollTo(index);
-		// selected = emblaApi?.selectedScrollSnap();
-		$carousel?.scrollTo(index);
+	const select = (index: number | string) => () => {
+		if (typeof index === 'number') $carousel?.scrollTo(index);
 	};
 
-	// const register = () => {
-	// 	console.log('embla', emblaApi?.selectedScrollSnap());
-	// 	selected = emblaApi?.selectedScrollSnap();
-	// };
-
-	// const currentState = () => {
-	// 	console.log('state', emblaApi?.selectedScrollSnap());
-	// };
 	const onSelect = () => {
 		selected = $carousel?.selectedScrollSnap();
 	};
+
+	// $: {
+	// 	console.log('carousel', selected);
+	// }
+
+	let displayValues = [0, 1, 2, 3, 4, 5, 6, '...', arr.length];
+
+	$: {
+		// Only update displayValues based on arr.length and selected index
+		if (arr.length < 10) {
+			displayValues = [...Array(arr.length).keys()];
+		} else if (selected < 6) {
+			displayValues = [0, 1, 2, 3, 4, 5, 6, '...', arr.length - 1];
+		} else if (selected >= 6 && selected <= arr.length - 5) {
+			// Simplify logic to update displayValues only once if condition is met
+			const needsUpdate =
+				displayValues[2] === selected || selected === displayValues[displayValues.length - 3];
+			if (needsUpdate || displayValues.filter((i) => i === '...').length <= 1) {
+				displayValues = [
+					0,
+					'...',
+					selected - 1,
+					selected,
+					selected + 1,
+					selected + 2,
+					selected + 3,
+					selected + 4,
+					selected + 5,
+					'...',
+					arr.length - 1
+				];
+			}
+		} else if (selected >= arr.length - 5) {
+			displayValues = [
+				0,
+				'...',
+				arr.length - 5,
+				arr.length - 4,
+				arr.length - 3,
+				arr.length - 2,
+				arr.length - 1
+			];
+		}
+	}
 </script>
 
 <div class="flex w-full mt-4">
-	<div class=" ml-auto md:mx-auto">
+	<div class="md:hidden">
+		<button class="btn btn-circle btn-primary" on:click={previousCard}>
+			<div class="pl-0">
+				{@html ChevronLeftIcon}
+			</div>
+		</button>
+		<button class="btn btn-circle btn-primary" on:click={nextCard}>
+			{@html ChevronRightIcon}
+		</button>
+	</div>
+	<div class="ml-auto md:mx-auto">
 		<button class=" btn btn-primary" on:click={handleReset}>
 			{@html RestoreIcon}
 			Reset
@@ -78,22 +101,22 @@
 	</div>
 </div>
 
-<div class="relative py-16" transition:fade>
+<div class="relative py-4" transition:fade>
 	<div class={`hidden md:block`}>
 		<button
-			class={`left-10 btn btn-primary btn-circle p-0 m-0 absolute top-48 z-10 ${selected === 0 ? 'hidden' : 'md:block'}`}
+			class={`left-10 btn btn-primary btn-circle p-0 m-0 absolute top-36 z-10 ${selected === 0 ? 'hidden' : 'md:block'}`}
 			on:click={previousCard}
 		>
 			<!-- <ChevronLeft class="h-8 w-8 pl-2" on:click={previousCard} /> -->
-			<div class="pl-2 pt-1.5">
+			<div class="pl-2">
 				{@html ChevronLeftIcon}
 			</div>
 		</button>
 		<button
-			class={`btn btn-primary btn-circle absolute right-10 top-48 z-10 ${selected === arr.length - 1 ? 'hidden' : 'md:block'}`}
+			class={`btn btn-primary btn-circle absolute right-10 top-36 z-10 ${selected === arr.length - 1 ? 'hidden' : 'md:block'}`}
 			on:click={nextCard}
 		>
-			<div class="pl-2.5 pt-0.5">
+			<div class="pl-2.5">
 				{@html ChevronRightIcon}
 			</div>
 			<!-- <ChevronRightIcon /> -->
@@ -101,6 +124,7 @@
 		</button>
 	</div>
 	<div class="embla">
+		<!-- // @ts-nocheck -->
 		<div class="embla__viewport" use:embla={{ store: carousel }} on:e-select={onSelect}>
 			<div class="embla__container">
 				{#each arr as slide}
@@ -109,19 +133,31 @@
 			</div>
 		</div>
 	</div>
-	<div class="absolute top-4 left-0 w-full flex justify-center gap-4">
-		{#each arr as _, index}
-			<button class="w-[30px] h-[30px] grid place-items-center" on:click={select(index)}>
-				<div
-					class="w-full h-[3px] bg-black rounded-[.25rem]"
-					class:[background:linear-gradient(45deg,#ff9500,#ffcc00)]={selected === index}
-				/>
-			</button>
-		{/each}
+	<div class=" px-8 flex justify-center items-center md:gap-4 gap-2">
+		{#if displayValues !== undefined}
+			{#each displayValues as item, index}
+				{#if item === '...'}
+					<p>...</p>
+				{:else}
+					<button
+						class={`btn md:btn-md btn-xs btn-circle btn-secondary grid place-items-center ${selected === item && 'bg-gradient-to-br from-orange-500 to-orange-300'}`}
+						on:click={select(item)}
+					>
+						{item}
+					</button>
+				{/if}
+			{/each}
+		{/if}
 	</div>
 </div>
 
 <style>
+	.pagination button {
+		margin: 0 2px;
+	}
+	.pagination .active {
+		font-weight: bold;
+	}
 	.embla {
 		overflow: hidden;
 		position: relative;

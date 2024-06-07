@@ -3,7 +3,6 @@ import { google } from '$lib/server/google-auth';
 import { redirect, type RequestEvent } from '@sveltejs/kit';
 
 export async function GET(event: RequestEvent): Promise<Response> {
-	// console.log('user', event.locals.user);
 	if (event.locals.user) {
 		throw redirect(302, '/upload');
 	}

@@ -1,1 +1,0 @@
-ALTER TABLE `sessions` ADD `new_email` text NOT NULL;

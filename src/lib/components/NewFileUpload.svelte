@@ -13,8 +13,8 @@
 	$: maxHeight = maxRows ? `${1 + maxRows * 1.2}em` : `auto`;
 </script>
 
-<div class="flex items-center gap-4 md:px-12 mt-[6em]">
-	<label class="btn flex btn-primary mx-auto" for="fileUpload">
+<div class="flex flex-col md:flex-row items-center gap-4 md:px-12 mt-[6em]">
+	<label class="btn hidden md:flex btn-primary mx-auto" for="fileUpload">
 		<input
 			type="file"
 			class="hidden"
@@ -23,15 +23,26 @@
 			accept="application/pdf"
 		/>
 		<UploadIcon />
-		Upload Resume PDF
+		Upload Resume/CV PDF
 	</label>
-	<div class="container">
+	<div class="container rounded-2xl">
 		<pre aria-hidden="true" style="min-height: {minHeight}; max-height: {maxHeight}">{inputText +
 				'\n'}</pre>
 
-		<textarea placeholder="Add additional details about yourself here" bind:value={inputText}
+		<textarea placeholder="Add additional skills" bind:value={inputText} class="rounded-2xl"
 		></textarea>
 	</div>
+	<label class="btn flex md:hidden btn-primary mx-auto" for="fileUpload">
+		<input
+			type="file"
+			class="hidden"
+			id="fileUpload"
+			on:change={handleFileInput}
+			accept="application/pdf"
+		/>
+		<UploadIcon />
+		Upload Resume/CV PDF
+	</label>
 </div>
 
 <style>

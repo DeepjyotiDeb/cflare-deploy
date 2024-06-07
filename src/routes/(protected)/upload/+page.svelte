@@ -1,42 +1,28 @@
 <script lang="ts">
 	import Axios, { type AxiosProgressEvent } from 'axios';
 	import Carousel from '$lib/components/Carousel.svelte';
-	import RemoveIcon from '$lib/components/Icons/RemoveIcon.svelte';
+	import RemoveIcon from '$lib/assets/icons/Remove.svg?raw';
+	import LogoIcon from '$lib/assets/icons/logo1.svg?raw';
 	import { generatePresignedLink } from '$lib/generatePresignedUrl';
 	import { generateIdFromEntropySize } from 'lucia';
 	import { dummyData, type DummyData } from '$lib/dummyData';
-	import NewFileUpload from '../../../lib/components/NewFileUpload.svelte';
-	import FilterForm from '../../../lib/components/FilterForm.svelte';
+	import NewFileUpload from '$lib/components/NewFileUpload.svelte';
+	import FilterForm from '$lib/components/FilterForm.svelte';
 	import { filterObjects } from '../../../utils/filterData';
-	import { bigint } from 'drizzle-orm/mysql-core';
-	import { toastStore } from '../../../lib/stores/toastStores';
-
-	// const newArr = JSON.parse(realJson.body);
-
-	// let obj = {
-	// 	someTHig: 'details',
-	// 	aNumber: 1200
-	// };
-	// console.log('real json', newArr, obj);
-
+	import { toastStore } from '$lib/stores/toastStores';
+	import { state as headerState } from '$lib/stores/headerStore';
 	// const arr = [1, 2, 3]; //will be replaced by data from ai-model api
-
-	interface FilterObject {
-		clearance_required: string;
-		has_remote: string;
-		min_salary: number | string;
-		experience_level: string;
-	}
 
 	let progress = 0;
 	let state: '' | 'uploading' | 'analysing' | 'success' | 'error' = '';
 	let inputText = '';
 	let file: File | null;
-	let filterValues: string[] = [];
 
 	const sessionId = generateIdFromEntropySize(6);
-	let arr = dummyData;
-	let backUpData = dummyData;
+	// let arr: DummyData[] = dummyData;
+	// let backUpData: DummyData[] = dummyData;
+	let arr: DummyData[] = [];
+	let backUpData: DummyData[] = [];
 
 	const handleFileInput = async (e: Event | DragEvent) => {
 		e.preventDefault();
@@ -72,10 +58,10 @@
 				}
 			});
 
-			console.log(
-				'file uploaded',
-				uploadResponse?.config?.url && uploadResponse.config.url.split('?')[0]
-			);
+			// console.log(
+			// 	'file uploaded',
+			// 	uploadResponse?.config?.url && uploadResponse.config.url.split('?')[0]
+			// );
 
 			if (!uploadResponse?.config?.url) return;
 			//* fetch download url and make ai call?*//
@@ -92,16 +78,24 @@
 			});
 
 			//*
-			state = 'success';
 			const fullRes = (await res.json()) as DummyData[];
-			console.log('body', fullRes);
-			fullRes.sort((a, b) => Date.parse(b.published_date) - Date.parse(a.published_date));
-			arr = fullRes;
-			console.log('user files', arr);
+			// console.log('body', fullRes);
+			// fullRes.sort((a, b) => Date.parse(b.published_date) - Date.parse(a.published_date));
+			if (Array.isArray(fullRes)) {
+				arr = fullRes;
+				backUpData = fullRes;
+				headerState.setState('uploaded');
+				state = 'success';
+				toastStore.alert(`Found ${arr.length} matches! Swipe to view more`, {
+					position: 'bottom-end'
+				});
+				// console.log('user files', arr);
+			} else state = 'error';
 		} catch (error) {
 			state = 'error';
 			console.log('error', error);
 		}
+		progress = 0; //reset progress
 	};
 
 	const handleTextChange = (text: string) => {
@@ -124,9 +118,9 @@
 			experience: filterForm.experience.toString(),
 			min_salary: filterForm.min_salary.toString()
 		};
-		console.log('new filter', newFilter);
-		const filteredData = filterObjects(arr, newFilter);
-		console.log('filtered data', filteredData);
+		// console.log('new filter', newFilter);
+		const filteredData = filterObjects(backUpData, newFilter);
+		// console.log('filtered data', filteredData);
 		if (!filteredData.length) {
 			toastStore.alert(`Found ${filteredData.length} matches! Please reset`, {
 				position: 'bottom-end'
@@ -134,6 +128,7 @@
 		} else toastStore.alert(`Found ${filteredData.length} matches!`, { position: 'bottom-end' });
 
 		arr = filteredData;
+		(document.getElementById('filter-modal') as HTMLDialogElement).close();
 	};
 
 	const handleReset = () => {
@@ -147,13 +142,16 @@
 		<!-- <FileUpload {handleFileInput} {inputText} {handleTextChange} /> -->
 		{#if file}
 			<div
-				class="flex md:mx-auto w-full md:w-2/3 md:p-6 p-4 bg-white shadow-xl rounded-lg justify-between mt-4"
+				class="flex md:mx-auto w-full md:w-2/3 md:p-6 p-2 bg-white shadow-xl rounded-xl justify-between items-center mt-4"
 			>
 				<p class="text-ellipsis overflow-hidden">
 					{file?.name}
 				</p>
-				<button class="btn btn-error btn-circle btn-sm ml-auto" on:click={() => (file = null)}>
-					<RemoveIcon />
+				<button
+					class="btn bg-red-400 hover:bg-red-500 btn-circle btn-sm ml-auto"
+					on:click={() => (file = null)}
+				>
+					{@html RemoveIcon}
 				</button>
 			</div>
 			<button class="btn btn-primary mx-auto mt-4" on:click={submit}>Submit</button>
@@ -164,16 +162,24 @@
 			<p class="mx-auto text-ellipsis overflow-hidden text-lg">Uploading {file?.name}</p>
 		</div>
 	{:else if state === 'analysing'}
-		<img src="/chakraSvg.svg" alt="" class="animate-bounce w-52 h-52 mx-auto mt-12" />
+		<img src="/logo1.svg" alt="analysing" class="animate-bounce w-52 h-52 mx-auto mt-12" />
+		<p class="text-center text-2xl font-bold animate-pulse">Analysing...</p>
 	{:else if state === 'success'}
-		<!-- <Carousel {arr} /> -->
-		<Carousel {arr} {triggerModal} {handleReset} />
-		<FilterForm {handleSubmit} />
+		{#if !arr.length}
+			<p class="text-3xl text-center mt-16">No matches found</p>
+			<button class="btn btn-secondary mx-auto mt-2" on:click={() => (state = '')}
+				>Try Again?</button
+			>
+		{:else}
+			<Carousel {arr} {triggerModal} {handleReset} />
+			<FilterForm {handleSubmit} />
+		{/if}
 	{:else if state === 'error'}
 		<p class="text-3xl text-center mt-16">Something went wrong</p>
-		<button class="bigint btn-secondary" on:click={() => (state = '')}
-			>Try Again? (Only valid pdf are accepted)</button
-		>
+		<button class="btn btn-secondary mx-auto mt-4" on:click={() => (state = '')}
+			>Try Again?
+		</button>
+		<p class="text-xl text-center mt-2">Please upload a valid pdf</p>
 	{/if}
 	<!-- <Carousel {arr} {triggerModal} {handleReset} />
 	<FilterForm {handleSubmit} /> -->

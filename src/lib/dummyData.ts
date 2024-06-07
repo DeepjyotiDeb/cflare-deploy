@@ -592,5 +592,725 @@ export const dummyData: DummyData[] = [
 		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
 		salary_currency: 'USD',
 		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
+	},
+	{
+		clearance_required: false,
+		company_id: 13005,
+		company_linkedin_url: 'https://www.linkedin.com/company/compass-group-north-america',
+		company_logo:
+			'https://jobdataapi.com/media/company/logo/23/12/compass_group_north_america_logo.jpeg',
+		company_name: 'Compass Group',
+		company_website_url: 'https://www.compassgroupcareers.com/',
+		country_name: 'United States',
+		experience: 'Mid Level',
+		has_remote: false,
+		id: 5975772,
+		job_description:
+			'<p></p><p>Salary:$70,000 - $80,000</p><p>Other Forms of Compensation: Benefits</p><p></p><p>Become part of Restaurant Associates, the industry’s leading provider of dining and event catering for some of the nation\'s most prestigious museums, performing arts centers and corporations!</p><h2>Job Summary</h2><p>Working as the Sous Chef at Hearst Media, you will be responsible for supporting the successful operations of culinary services including a full service cafe (1100 lunch covers daily), conference dining and catering services. Shifts are Monday through Friday availability 6:30am to 4:30pm- no holidays or weekends! Occasional evening availability will be required. </p><p></p><p><u>Key Responsibilities:</u></p><p>Create unforgettable culinary experiences for our clients and guests<br/>Support costs and controls expenditures for the account<br/>Plans and creates menus<br/>Menu creation and execution for catered events</p><p></p><p><u>Preferred Qualifications:</u></p><p>3-5 years of culinary experience, preferably in restaurants, hotels, or luxury F&amp;B.<br/>Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation<br/>Outstanding hospitality skills<br/>High volume, complex foodservice operations experience - highly desirable.</p><p align="center"></p><p>Associates at Restaurant Associates are offered many fantastic benefits.</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Life Insurance/ AD</li><li>Disability Insurance</li><li>Retirement Plan</li><li>Paid Time Off</li><li>Holiday Time Off (varies by site/state)</li><li>Associate Shopping Program</li><li>Health and Wellness Programs</li><li>Discount Marketplace</li><li>Identity Theft Protection</li><li>Pet Insurance</li><li>Commuter Benefits</li><li>Employee Assistance Program</li><li>Flexible Spending Accounts (FSAs)</li></ul><p>Applications are accepted on an ongoing basis.</p><p>Restaurant Associates maintains a drug-free workplace.</p><p>Req ID:1313213</p><p>Restaurant Associates</p><p>Leah Curry</p><p>[[req_classification]]</p><p></p><p></p><p align="center"></p><p>Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.</p><p>Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. We will consider for employment all qualified applicants, including those with a criminal history (including relevant driving history), in a manner consistent with all applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, and the New York Fair Chance Act. We encourage applicants with a criminal history (and driving history) to apply.</p>',
+		job_posting_url:
+			'https://jobs.compassgroupcareers.com/United_States/job/New-York-Sous-Chef-NY-10019-3741/1171837500/',
+		job_type: 'Full Time',
+		location: 'New York, NY, US, 10019-3741',
+		max_salary: 80000,
+		min_salary: 70000,
+		published_date: 'Fri, 24 May 2024 00:00:00 GMT',
+		salary_currency: 'USD',
+		title: 'Sous Chef'
 	}
 ];
